@@ -1,0 +1,49 @@
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.exe.config
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.exe
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.pdb
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.AssemblyReference.cache
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.DangKi.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.DangNhap.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Main_Admin.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Properties.Resources.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.GenerateResource.cache
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.CoreCompileInputs.cache
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.exe
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.pdb
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Main_User.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.SuaBaoCao.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.SuaKhachHang.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.SuaSanPham.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.ThemKhachHang.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.ThemMoiBaoCao.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.ThemMoiSanPham.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.ThueSanPham.resources
+D:\Workspaces\C#\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.TraSanPham.resources
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.exe.config
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.exe
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.pdb
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.AssemblyReference.cache
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.DangKi.resources
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.DangNhap.resources
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Main_Admin.resources
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Main_User.resources
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Properties.Resources.resources
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.GenerateResource.cache
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.CoreCompileInputs.cache
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.exe
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.pdb
+D:\Project_CK (1)\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Form_LichSu.resources
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.exe.config
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.exe
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\bin\Debug\QL_ChoThue_BD.pdb
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.AssemblyReference.cache
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.DangKi.resources
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.DangNhap.resources
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Form_LichSu.resources
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Main_Admin.resources
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Main_User.resources
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.Properties.Resources.resources
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.GenerateResource.cache
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.csproj.CoreCompileInputs.cache
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.exe
+D:\CK_Truc_Quan-main\Project_CK\QL_ChoThue_BD\QL_ChoThue_BD\obj\Debug\QL_ChoThue_BD.pdb
